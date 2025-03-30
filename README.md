@@ -1,1 +1,1 @@
-# Promt-text-to-GIF-convertor
+# Prompt-text-to-GIF-convertor
